@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "dbt-project-294413",
+  "private_key_id": "60bc64a0b7d3bee0a44250313b14aa409393cdc9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCfYip8VyG07IrX\nByw+jR3I3aXJ9n8BCZvCB1nA3VCbvNYHpAV/xBWpsvNXeZwSkcQjR3VibujnGD9B\nnlf1RGzAoa8kAw/uekD81loHMuUxi0EFb4EiluQcFnRdO6mD0C6mwtWpDUQZsUh+\n5OhpGY/oxXbRCVbY8knRnBu1AgE8vKm3xReX5wA3o8g46La6BQXpX5mOJ2H++mxT\nhzhycCveXloY7NPG4yfJbviO8ZVMVynS+Ira+KiRVDed79zWvy16YnRxGuxiQM6h\nUqo8lLDbYHMM0+MCOMI6hW5SYjLqAIKFJ8/8HyHsqMUz28T8NWY0FsTEaLULuswF\n+TJhxj2dAgMBAAECggEAHEngIJGWefZB7khnofKKBszQUDhf8l8yNg338DNXy0yI\n8HI8R6EV9zi72BrNiL42gcx9GSt2Sw4SrCLembm7U7Ve0JV6jmlEf5vL/tsZsuF0\nePKBiRIfCp0xqhqcy7h3j0GliovAOo8svtkCJyVSVY42uINf1sGqOHnssQPaFF1g\nLqw43tiK7U8Vv7UmLQH3lrepuaJ05890tt40TROnffc/XCSy7USKl9AdTMywa57N\nFaNfhjfoNqy31vqtfeDlvCdDhvD6Ncpjh+wI4d/VZjhCAaONRBIySe1YwJ9ah0aG\nCKhLuN5Gux8HGA6JNtfQNfKmMAOmbgQgDuJ01lSkQQKBgQDWHWBU5KkP6CpkfCe6\npBNjWss0N2J3GobyWpAwP86Kohp1ysSMte4BvqcT15nBLIKN87L4MZkfrZK+Evwe\nGc2UHuRkDjNc7c4fAgJkoEMuIAXpfQIy016FH81W+jVloim1XPnHvdFT244fMKa7\niA+9vewuiuu+l0BbS3GxJUCGuwKBgQC+j+ik4KLJGFI8Uzn9GDrG/NA/odt8cvf0\nYBNPFIZqRGRYyVBw7TpYeivJUVtpPtXTaUwmWJJGuFXBS912XNjeytUMM0R/dcFb\nw5e8rWGMdVS44b5YVZlOcbQopMLqtrzNhvCqMtDOkHL8IQO14UkRcjretISRWz6e\nyqwLblEDhwKBgQCUa5acIklC+odwUlPj39qEs6pKTt4Ve7DxjG+I0qIknUvEPUNT\n2sTaNsNwULKHIoh5R+XWf+MJ/3LKCTT01KQZufRNmz5le363Jdhs0l7fOVl/yaTd\ngIFzvGDFmvmqsudAjeujVuQkwfvZiQr60c0/lMiEVs4ltojo//oWdqEtAwKBgGPQ\nDuQlgT5hjdlpImuOAGNv0kgyKDu0IGoQ1KxMLOeGcSUMNSUhLLlhLIQjKAUlU2yL\nr8Y6CEwgi1JWwWYY1cNEbHkadVtpu2CsP1MlYX3nivvXyhKMq2MqLVpIiovUMWpZ\nrr8HJNW9VWz4gfAHU3Ve5rT1yqY0K8WSlLDcFHULAoGBALdQbJPKu49I4t2XuOZR\nqaivv8biyymexcOHWR3y0Cn7qhCMTe+YRdJzMeMqlpeN6kwRG9HZtC1i3BxAYVNl\n51MyjVD53GkPw6zQ3zau+3t0GDXBD6V9/TdraMvjoXkEJtbN9uhzRprBfVToy+7B\nt7o75E+TDGqgJeqzZVlSbbym\n-----END PRIVATE KEY-----\n",
+  "client_email": "dbt-user@dbt-project-294413.iam.gserviceaccount.com",
+  "client_id": "101787583182637729345",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dbt-user%40dbt-project-294413.iam.gserviceaccount.com"
+}
